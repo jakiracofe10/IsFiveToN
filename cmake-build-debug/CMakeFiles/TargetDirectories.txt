@@ -1,0 +1,3 @@
+C:/Users/Jason/ClionProjects/5toTheNForm/cmake-build-debug/CMakeFiles/5toTheNForm.dir
+C:/Users/Jason/ClionProjects/5toTheNForm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jason/ClionProjects/5toTheNForm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
