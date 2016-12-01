@@ -2,7 +2,10 @@
 
 using namespace std;
 
-int isFiveToN(int n) {
+//Time: O(n)
+//Space: O(n)
+
+bool isFiveToN(int n) {
     if (n==0) {
         return false;
     }
